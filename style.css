@@ -59,7 +59,7 @@ nav li {
 .home-content {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around; /* Adjust the space between home-left and home-image */ /* Align items at the start */
+  justify-content: space-around; 
   max-width: 80%;
 }
 
@@ -74,10 +74,10 @@ nav li {
 }
 
 .home-text h1 {
-  font-size: 55px; /* Reduce font size for better readability */
+  font-size: 55px; 
   font-family: Georgia, serif;
   color: rgb(121, 198, 131);
-  margin-bottom: 10px; /* Adjust spacing */
+  margin-bottom: 10px; 
 }
 
 .icons {
@@ -103,7 +103,7 @@ nav li {
 
 .home-button {
   margin-top: 20px; 
-  margin-bottom: 20px;/* Add spacing between home-text and home-button */
+  margin-bottom: 20px;
 }
 
 .home-button button {
@@ -331,10 +331,10 @@ nav li {
 }
 
 .project .project-view {
-  width: 100%; /* Ensure the anchor tag takes full width */
+  width: 100%; 
   display: flex;
-  justify-content: flex-start; /* Align the anchor tag to the right */
-  align-items: center; /* Vertically center the anchor tag */
+  justify-content: flex-start; 
+  align-items: center; 
 }
 
 
